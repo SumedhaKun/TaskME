@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407493770359",
+    "project_id": "taskme-26cfb",
+    "storage_bucket": "taskme-26cfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407493770359:android:1e4217035af8af8c2d1a72",
+        "android_client_info": {
+          "package_name": "com.title.cohacks_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407493770359-tpc0e1snme4qmfs1mtrdfrr5evrbd8md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYBY9etWPDMEF_Tok3kdah8sm3XA9B3TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407493770359-tpc0e1snme4qmfs1mtrdfrr5evrbd8md.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
